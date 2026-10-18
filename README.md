@@ -77,28 +77,28 @@ Across **386 published packages** in the [claude-code-plugins](https://www.npmjs
 
 | Window        | All packages | Established (>30d) |
 | ------------- | -----------: | -----------------: |
-| Last 24 hours |          943 |                943 |
-| Last 7 days   |        3,970 |              3,970 |
-| Last 30 days  |       15,212 |             15,212 |
+| Last 24 hours |          502 |                502 |
+| Last 7 days   |        1,595 |              1,595 |
+| Last 30 days  |       13,303 |             13,303 |
 
 <sub>"Established" excludes packages first published within the last 30 days, so a bulk-publish event doesn't dominate the headline.</sub>
 
 **Top 10 by last 30 days:**
 
-| #   | Package                                                                                                                | Last 30d |
-| --- | ---------------------------------------------------------------------------------------------------------------------- | -------: |
-| 1   | [`@intentsolutionsio/claude-pack`](https://www.npmjs.com/package/@intentsolutionsio/claude-pack)                       |      541 |
-| 2   | [`@intentsolutionsio/openrouter-pack`](https://www.npmjs.com/package/@intentsolutionsio/openrouter-pack)               |      458 |
-| 3   | [`@intentsolutionsio/groq-pack`](https://www.npmjs.com/package/@intentsolutionsio/groq-pack)                           |      335 |
-| 4   | [`@intentsolutionsio/databricks-pack`](https://www.npmjs.com/package/@intentsolutionsio/databricks-pack)               |      329 |
-| 5   | [`@intentsolutionsio/shopify-pack`](https://www.npmjs.com/package/@intentsolutionsio/shopify-pack)                     |      276 |
-| 6   | [`@intentsolutionsio/neural-network-builder`](https://www.npmjs.com/package/@intentsolutionsio/neural-network-builder) |      249 |
-| 7   | [`@intentsolutionsio/supabase-pack`](https://www.npmjs.com/package/@intentsolutionsio/supabase-pack)                   |      245 |
-| 8   | [`@intentsolutionsio/anthropic-pack`](https://www.npmjs.com/package/@intentsolutionsio/anthropic-pack)                 |      227 |
-| 9   | [`@intentsolutionsio/clickhouse-pack`](https://www.npmjs.com/package/@intentsolutionsio/clickhouse-pack)               |      213 |
-| 10  | [`@intentsolutionsio/klingai-pack`](https://www.npmjs.com/package/@intentsolutionsio/klingai-pack)                     |      184 |
+| #   | Package                                                                                                                  | Last 30d |
+| --- | ------------------------------------------------------------------------------------------------------------------------ | -------: |
+| 1   | [`@intentsolutionsio/claude-pack`](https://www.npmjs.com/package/@intentsolutionsio/claude-pack)                         |      810 |
+| 2   | [`@intentsolutionsio/openrouter-pack`](https://www.npmjs.com/package/@intentsolutionsio/openrouter-pack)                 |      443 |
+| 3   | [`@intentsolutionsio/anthropic-pack`](https://www.npmjs.com/package/@intentsolutionsio/anthropic-pack)                   |      369 |
+| 4   | [`@intentsolutionsio/databricks-pack`](https://www.npmjs.com/package/@intentsolutionsio/databricks-pack)                 |      300 |
+| 5   | [`@intentsolutionsio/groq-pack`](https://www.npmjs.com/package/@intentsolutionsio/groq-pack)                             |      294 |
+| 6   | [`@intentsolutionsio/neural-network-builder`](https://www.npmjs.com/package/@intentsolutionsio/neural-network-builder)   |      257 |
+| 7   | [`@intentsolutionsio/shopify-pack`](https://www.npmjs.com/package/@intentsolutionsio/shopify-pack)                       |      254 |
+| 8   | [`@intentsolutionsio/supabase-pack`](https://www.npmjs.com/package/@intentsolutionsio/supabase-pack)                     |      224 |
+| 9   | [`@intentsolutionsio/clickhouse-pack`](https://www.npmjs.com/package/@intentsolutionsio/clickhouse-pack)                 |      196 |
+| 10  | [`@intentsolutionsio/wallet-security-auditor`](https://www.npmjs.com/package/@intentsolutionsio/wallet-security-auditor) |      182 |
 
-<sub>Last refreshed 2026-10-10T01:36:11.465Z.</sub>
+<sub>Last refreshed 2026-10-18T01:30:17.971Z.</sub>
 
 <!-- NPM-STATS:END -->
 
